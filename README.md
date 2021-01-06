@@ -27,16 +27,14 @@ These are my dogs:
 ![](IMG_5529.JPG)
 2. Zeus
 ![](zeus.PNG)
-Together :dancers:
-![]()
 
-1. Yeti
+- Yeti
    - Bernese Mountain Dog
      - Likes snacks
-2. Zeus
-   - German Shepherd 
-     - Likes ball
-     - Also hose
+- Zeus
+  - German Shepherd 
+    - Likes ball
+    - Also hose
 #### Todo
 - [ ] graduate college
 - [x] chase escaped dog down street
