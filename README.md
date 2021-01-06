@@ -24,9 +24,7 @@ Use `print("Hello World")` to say Hello to the World.
 ### About me
 These are my dogs:
 1. Yeti
-![](IMG_5529.JPG)
 2. Zeus
-![](IMG_4836.HEIC)
 
 Together :dancers:
 ![](IMG_5796.HEIC)
@@ -43,4 +41,4 @@ Together :dancers:
 - [x] chase escaped dog down street
 
 ### The End
-:kissing::v:
+:kissing: :v:
