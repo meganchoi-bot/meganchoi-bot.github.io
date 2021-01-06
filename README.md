@@ -12,7 +12,7 @@ You can find my LinkedIn profile [here](linkedin.com/in/megan-choi-6922181a1).
 
 ***I am important***
 
-In the words of Cardi B:
+In the words of Nicki Minaj:
 > uhhhm chile anyways so
 
 Use `print("Hello World")` to say Hello to the World.
