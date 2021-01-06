@@ -38,6 +38,9 @@ Together :dancers:
    - German Shepherd 
      - Likes ball
      - Also hose
+#### Todo
+- [ ] graduate college
+- [x] chase escaped dog down street
 
 ### The End
 :kissing::v:
