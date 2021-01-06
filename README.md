@@ -31,5 +31,13 @@ These are my dogs:
 Together :dancers:
 ![](IMG_5796.HEIC)
 
+1. Yeti
+   - Bernese Mountain Dog
+     - Likes snacks
+2. Zeus
+   - German Shepherd 
+     - Likes ball
+     - Also hose
+
 ### The End
 :kissing::v:
