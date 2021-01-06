@@ -21,5 +21,10 @@ Use `print("Hello World")` to say Hello to the World.
 
 [This is my config file](_config.yml)
 
+### About me
+These are my dogs:
+- Yeti
+- Zeus
+
 ### The End
 :kissing::v:
