@@ -24,10 +24,11 @@ Use `print("Hello World")` to say Hello to the World.
 ### About me
 These are my dogs:
 1. Yeti
+![](IMG_5529.JPG)
 2. Zeus
-
+![](zeus.PNG)
 Together :dancers:
-![](IMG_5796.HEIC)
+![]()
 
 1. Yeti
    - Bernese Mountain Dog
