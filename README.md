@@ -25,6 +25,7 @@ These are my dogs:
 ![](IMG_5529.JPG)
 2. Zeus
 ![](zeus.PNG)
+
 This is my dog [zeus](/zeus.png)
 
 - Yeti
@@ -34,6 +35,7 @@ This is my dog [zeus](/zeus.png)
   - German Shepherd 
     - Likes ball
     - Also hose
+
 ### Unordered List
 - unordered
 - list
