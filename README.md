@@ -6,7 +6,7 @@ You can find my LinkedIn profile [here](linkedin.com/in/megan-choi-6922181a1).
 
 *I am italicized*
 
-~~I am a mistake :grinning:~~
+~~I am a mistake~~
 
 **I am _very_ importante**
 
@@ -45,5 +45,3 @@ This is my dog [zeus](/zeus.png)
 - [x] chase escaped dog down street
 
 ### The End
-
-:kissing: :v:
