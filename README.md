@@ -19,7 +19,7 @@ Use `print("Hello World")` to say Hello to the World.
 
 ### [How do I add a section link?](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
 
-This is my [config file](/_config.yml)
+This is my dog [zeus](/zeus.png)
 
 ### About me
 These are my dogs:
