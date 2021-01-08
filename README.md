@@ -19,14 +19,13 @@ Use `print("Hello World")` to say Hello to the World.
 
 ### [How do I add a section link?](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
 
-This is my dog [zeus](/zeus.png)
-
 ### About me
 These are my dogs:
 1. Yeti
 ![](IMG_5529.JPG)
 2. Zeus
 ![](zeus.PNG)
+This is my dog [zeus](/zeus.png)
 
 - Yeti
    - Bernese Mountain Dog
@@ -35,6 +34,10 @@ These are my dogs:
   - German Shepherd 
     - Likes ball
     - Also hose
+### Unordered List
+- unordered
+- list
+
 #### Todo
 - [ ] graduate college
 - [x] chase escaped dog down street
